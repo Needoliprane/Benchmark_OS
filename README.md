@@ -15,3 +15,7 @@ My goal here, is to create somekind of live OS, that can benchmark a computer.
 
 
 At the moment I d'ont know if it is possible and how to do it, but we will see.
+
+And if you want to join me on this trip, send me a message on "issues"
+
+If someone have idea, let me know.

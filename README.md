@@ -1,4 +1,4 @@
-# Benchmark_OS
+# Some_kind_of_OS
 
 
 Hi, 
